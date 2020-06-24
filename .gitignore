@@ -1,0 +1,13 @@
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# dataset
+ChinaSet_AllFiles.zip
+test/
+train/
+train_main/
+
+# model
+inception.model/
+resnet.model/
+vgg19.model/
